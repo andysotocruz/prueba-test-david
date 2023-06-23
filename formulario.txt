@@ -1,3 +1,12 @@
 Nombre: jesus david ceballos parra
+
 edad: 27 años
+
 color favorito: negro
+
+Ocupacion: Repartidor
+
+Deporte Favorito: Muay thai
+
+Cancion Favorita:Time 
+
